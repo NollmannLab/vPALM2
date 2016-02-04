@@ -34,7 +34,7 @@ function varargout = vPALM2(varargin)
 
 %%  Initialization tasks
 
-
+'test change'
 scrsz = get(0,'ScreenSize');
 % FIGH=scrsz(4)/1;
 % FIGW=scrsz(3)*.8;
